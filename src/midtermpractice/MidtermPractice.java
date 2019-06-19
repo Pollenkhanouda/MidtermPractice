@@ -17,6 +17,7 @@ public class MidtermPractice {
     public static void main(String[] args) {
         String name;
         String lastName;
+        int phoneNumber;
         
     }
     
